@@ -71,7 +71,7 @@ public class BinarySearchTree {
 
 	// Method to perform in-order traversal of the binary search tree
 	public String inOrderTraversal() {
-		return inOrder(root); // Call the recursive in-order traversal method
+		return inOrder(root); // Call the recursive in-order traversal method.
 	}
 
 	// Recursive method to perform in-order traversal of the binary search tree
