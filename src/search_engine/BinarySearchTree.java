@@ -7,7 +7,7 @@ package search_engine;
 
 public class BinarySearchTree {
 
-	TreeNode root; // Reference to the root node of the binary search tree
+	TreeNode root; // Reference to the root node of the binary search tree.
 
 	// Constructor to initialize the binary search tree with a null root
 	public BinarySearchTree() {
