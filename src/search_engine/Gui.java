@@ -76,7 +76,7 @@ public class Gui extends javax.swing.JFrame {
 			traversalType = bst.postOrderTraversal(); // Perform post-order traversal
 			break;
 		default:
-			traversalType = "Selection is invalidssss.";
+			traversalType = "Selection is invalid.";
 			break;
 		}
 		bstOfFileArea.setText(traversalType); // Update the display area with the traversal result
